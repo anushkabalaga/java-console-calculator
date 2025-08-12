@@ -41,9 +41,17 @@ how to run the project using eclipse:
    - Check the box for `public static void main(String[] args)`
 5. Paste the full code of the calculator into `Calculator.java`
 6. Click Run  button or right-click →  run As → Java Application
+   
+Key concepts learned
+--------------------
 I learened writing java methods to perform to build some arthematic operations
 Using Scanner for user input
 Handling errors like divide-by-zero
 Using while loops and switch statements
 How to run and test Java code in Eclipse
 How to create and organize a Java project
+
+Author
+-------
+Developed by [Balaga Anushka] as part of *Java OOP Task 1*.
+
