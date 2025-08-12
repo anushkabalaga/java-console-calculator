@@ -1,35 +1,37 @@
-# Java-Console-Calculator
-A basic calculator using Java console input/output
-java console calculator
+Java-Console-Calculator:
+-----------------------
+A basic calculator using Java console input/output.
+java console calculator.
 
-This is a simple Java console-based calculator built as part of the
-Task 1
+Task 1:
+--------
+Features:
+---------
 
-Features
-AdditionSubtraction
-Multiplication
-Division (with divide-by-zero handling)
-Loop to perform multiple operations
-Menu-based input using `Scanner`
- 
- 
- Tools Used
-Java JDK
-Eclipse IDE
-Command Line / Console
-GitHub for version control and submission
+1.AdditionSubtraction
+2.Multiplication
+3.Division (with divide-by-zero handling)
+4.Loop to perform multiple operations
+5.Menu-based input using `Scanner`
 
+Tools Used:
+-----------
 
-Project Structure
+1.Java JDK
+2.Eclipse IDE
+3.Command Line / Console
+4.GitHub for version control and submission
 
-Java-Console-Calculator
-├── src/
-│  Calculator.java
-   README.md
+Project Structure:
+------------------
 
-
+1.Java-Console-Calculator
+2.src/
+3.Calculator.java
+4.README.md
    
-how tto run the project using eclipse
+how to run the project using eclipse:
+-------------------------------------
 
 1. Open Eclipse
 2. Go to File > New > Java Project
@@ -39,12 +41,9 @@ how tto run the project using eclipse
    - Check the box for `public static void main(String[] args)`
 5. Paste the full code of the calculator into `Calculator.java`
 6. Click Run  button or right-click →  run As → Java Application
-
-
-
-i leaened writing java methods to perform to build some arthematic operations
-Using `Scanner` for user input
+I learened writing java methods to perform to build some arthematic operations
+Using Scanner for user input
 Handling errors like divide-by-zero
-Using `while` loops and `switch` statements
+Using while loops and switch statements
 How to run and test Java code in Eclipse
 How to create and organize a Java project
